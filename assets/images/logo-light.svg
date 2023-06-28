@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="650" height="208" viewBox="0 0 650 208">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 100px;
+        font-family: Nexa-ExtraLight, Nexa;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        fill: #faf6f6;
+      }
+
+      .cls-4 {
+        fill: #fefbfb;
+      }
+
+      .cls-5 {
+        font-size: 200px;
+        fill: #fcf6f6;
+        font-family: Atary_Demo;
+      }
+    </style>
+    <filter id="filter" x="-1.844" y="-0.531" width="210.5" height="210.469" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="-1.34375" y="-0.03125" width="209.5" height="209.469" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjA5LjUiIGhlaWdodD0iMjA5LjQ2OSIgdmlld0JveD0iMCAwIDIwOS41IDIwOS40NjkiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMTA0Ljc1IiB5MT0iMjA5LjQ2OSIgeDI9IjEwNC43NSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyZmIzODMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMThhODZiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIyMDkuNSIgaGVpZ2h0PSIyMDkuNDY5Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="M89,0c150.372-2.665,156.233,186.106,30,208C45.868,220.684-18.975,147.3,3,75,18.351,24.5,43.719,19.551,89,0Z"/>
+  <path class="cls-2" d="M93,22l16,1q1,4.5,2,9c-11.324,7.357-30.58,7.062-41,15-43.2,32.913-3.234,76.743,20,99,9.745,0.276,23.414,1.112,30-2,3.612-11.249,22.772-32.941,36-34l4,5v6l-27,27c-6.953,16.937,5.79,33.406-12,42-5.208,2.877-15.815,2.126-24,2-33.989-.523-11.14-28.123-25-47-8.679-11.821-24.883-18.31-31-33C19,59.179,58.871,36.759,93,22ZM89,49c8.61,0.171,8.535,2.132,12,7l-3,7C79.178,66.344,82.883,80.385,74,93l-9-1-1-3C55.862,68.865,79.4,56.266,89,49Zm39,13,11,1c1.357,3.524,1.928,6.934,5,9,5.1,1.692,10.5-.129,16,1q1,5.5,2,11c-3.632,1.5-5.188,2.642-7,6l7,4q-0.5,3-1,6l-4,6-10-2c-5.27,3.037-6.143,6.752-9,12-14.029.319-10.833-3.581-17-10-7.424-2.1-11.147,3.01-16-4-2.731-3.636-1.78-6.366,0-10,3.651-1.059,2.941-.814,5-3V88l-9-5V80l6-8c6.735,0.495,10.43,2.432,14,0C123.927,68.967,124.921,64.918,128,62Zm4,18-10,6v1c0.491,11.588,8.943,11.844,18,9l3-9C139.836,82.767,137.683,81.935,132,80ZM81,100c5.8,0.606,6.547.965,8,6,2.855,2.579,1.573,1.291,0,4-3.272,7.417-8.3,4.664-13,1v-5Zm36,60-28,1v14l3,1c5.525,4.484,20.538,1.886,25-1V160Z"/>
+  <text id="tech" class="cls-3" x="413.535" y="106.341">tech</text>
+  <text id="Sistemas" class="cls-4" transform="translate(359.636 170.933) scale(0.609 0.727)">Sistemas</text>
+  <text id="Info" class="cls-5" transform="translate(224.541 109.788) scale(0.367 0.456)">Info</text>
+</svg>
